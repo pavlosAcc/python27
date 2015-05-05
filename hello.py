@@ -1,7 +1,7 @@
 #!/usr/bin/python
 from test.test_typechecks import Integer
 import sys
-#lol123
+#lol123456
 
 print "hello world!"
 
