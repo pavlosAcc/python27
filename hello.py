@@ -9,6 +9,9 @@ print "hello world!"
 '''
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'};
 
+#iodjakoa
+#dlakmla;lfa
+
 print "dict['Name']: ", dict['Name'];
 print "dict['Age']: ", dict['Age'];
 
