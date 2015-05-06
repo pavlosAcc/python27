@@ -313,7 +313,19 @@ happy_bday.sing_me_a_song()
 
 bulls_on_parade.sing_me_a_song()
 
+'''
+'''
+print "new dict['Name'] is:", dict['Name']
+dict.clear()
+print dict
+del dict
 
+print dict
+
+lookup = {"cat": 1, "dog": 2}
+print(lookup["cat"])
+'''
+'''
 
 class Parent(object):
 
